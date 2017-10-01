@@ -39,7 +39,7 @@ Programa em ASP é quer aprender PHP? Aprenda em 5 minutos alguns conceitos bás
 
 ## Misturando com HTML
 [ASP](https://github.com/marcollahc/do-asp-ao-php-em-5-minutos/blob/master/asp/mixing-with-html.asp)
-[PHP](https://github.com/marcollahc/do-asp-ao-php-em-5-minutos/blob/master/php/mixing-with-html.asp)
+[PHP](https://github.com/marcollahc/do-asp-ao-php-em-5-minutos/blob/master/php/mixing-with-html.php)
 
 ## Funções
 [ASP](https://github.com/marcollahc/do-asp-ao-php-em-5-minutos/blob/master/asp/functions.asp)
