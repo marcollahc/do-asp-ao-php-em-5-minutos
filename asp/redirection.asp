@@ -1,5 +1,5 @@
 <%
 
-Response.redirect "page.asp"
+Response.Redirect "page.asp"
 
 %>
