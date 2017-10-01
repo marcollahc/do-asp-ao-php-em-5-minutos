@@ -1,0 +1,5 @@
+<%
+
+Response.redirect "page.asp"
+
+%>

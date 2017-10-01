@@ -1,0 +1,5 @@
+<%
+
+Response.Cookies("name") = "" 
+
+%>
